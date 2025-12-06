@@ -1,6 +1,22 @@
-#Trabalho de Conclusão de Curso
+# Trabalho de Conclusão de Curso
 
-Este trabalho teve como objetivo a criação de um jogo sério visando o ensino de lógica de programação com vetores e matrizes apoiado no uso da Interação Humano-Computador.
-Foi utilizado a engine RPG Maker MZ para o desenvolvimento do jogo e os programas Adobe Photoshop, Clip Studio Paint e Aseprite para a confecção dos elementos gráficos.
+## Desenvolvimento de um Jogo Sério para Ensino de Lógica de Programação
 
-Créditos ao autor do Plugin utilizado: GALV_CharacterShadowMZ (GALV)
+Este projeto teve como objetivo criar um **jogo sério** voltado ao ensino de **lógica de programação**, com foco em **vetores e matrizes**, utilizando princípios de **Interação Humano-Computador (IHC)** para melhorar a experiência do usuário.
+
+O jogo foi desenvolvido utilizando a engine **RPG Maker MZ**.
+
+## Ferramentas Utilizadas
+
+Os elementos gráficos do projeto foram produzidos com:
+
+- **Adobe Photoshop**
+- **Clip Studio Paint**
+- **Aseprite**
+
+## Plugin Utilizado
+
+**GALV_CharacterShadowMZ**  
+Autor: **GALV**
+
+> Plugin responsável pela projeção de sombras dos personagens no RPG Maker MZ.
