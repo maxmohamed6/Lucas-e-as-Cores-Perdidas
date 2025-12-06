@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Vila","order":1,"parentId":0,"scrollX":1338.8571428571427,"scrollY":1043.142857142857},
+{"id":2,"expanded":true,"name":"Floresta Densa","order":2,"parentId":1,"scrollX":1061.142857142857,"scrollY":842.5714285714286,"quick":false},
+{"id":3,"expanded":false,"name":"Riacho","order":6,"parentId":1,"scrollX":1061.142857142857,"scrollY":597.4285714285714,"quick":false},
+{"id":4,"expanded":true,"name":"Caverna do Carvão","order":7,"parentId":1,"scrollX":1074.857142857143,"scrollY":2282.5714285714284,"quick":false},
+{"id":5,"expanded":false,"name":"puzzle1 floresta","order":5,"parentId":2,"scrollX":1061.142857142857,"scrollY":597.4285714285714,"quick":false},
+{"id":6,"expanded":false,"name":"intro (cutscene)","order":10,"parentId":0,"scrollX":1061.142857142857,"scrollY":583.7142857142857,"quick":false},
+{"id":7,"expanded":true,"name":"SELEÇÃO DE PERSONAGEM","order":11,"parentId":0,"scrollX":1085.142857142857,"scrollY":597.4285714285714,"quick":false},
+{"id":8,"expanded":false,"name":"puzzle2 floresta","order":3,"parentId":2,"scrollX":1074.857142857143,"scrollY":842.5714285714286,"quick":false},
+{"id":9,"expanded":false,"name":"puzzle3 floresta","order":4,"parentId":2,"scrollX":1074.857142857143,"scrollY":732.8571428571428,"quick":false},
+{"id":10,"expanded":false,"name":"Fornalha","order":8,"parentId":4,"scrollX":928.5,"scrollY":510.75,"quick":false},
+{"id":11,"expanded":true,"name":"fim","order":9,"parentId":1,"scrollX":1061.142857142857,"scrollY":1336.2857142857142}
+]

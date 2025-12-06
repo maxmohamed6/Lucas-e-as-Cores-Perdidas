@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$lucas25","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"FACESET LUCAS VERMELHOR E AZUL","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas (VERMELHO)","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$lucas 25 azul","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"FACESET LUCAS VERMELHOR E AZUL","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas (AZUL)","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"$lucas 25 amarelo","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"FACESET LUCAS AMARELO E VERDE","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas (AMARELO)","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$lucas 25 verde","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"FACESET LUCAS AMARELO E VERDE","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas (VERDE)","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"$lucas 25 roxo","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"FACESET LUCAS ROXO E ROSA","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas (ROXO)","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"$lucas 25 rosa","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"FACESET LUCAS ROXO E ROSA","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas (ROSA)","nickname":"","note":"","profile":""}
+]
