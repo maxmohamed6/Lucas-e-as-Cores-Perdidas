@@ -20,3 +20,7 @@ Os elementos gráficos do projeto foram produzidos com:
 Autor: **GALV**
 
 > Plugin responsável pela projeção de sombras dos personagens no RPG Maker MZ.
+
+## Site em que o jogo está disponível para teste
+
+[Lucas e as Cores Perdidas](https://maxmohamedfreitas.itch.io/lucas-e-as-cores-perdidas)
